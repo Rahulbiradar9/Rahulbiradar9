@@ -38,8 +38,6 @@ Interests:
 
 </p>
 
----
-
 ## Frontend Development
 
 <p>
@@ -50,8 +48,6 @@ Interests:
 
 </p>
 
----
-
 ## Backend Development
 
 <p>
@@ -61,8 +57,6 @@ Interests:
 
 </p>
 
----
-
 ## Databases
 
 <p>
@@ -70,8 +64,6 @@ Interests:
 <img src="https://skillicons.dev/icons?i=mysql" height="45"/>
 
 </p>
-
----
 
 ## AI
 
@@ -81,8 +73,6 @@ Interests:
 
 </p>
 
----
-
 ## Game Development
 
 <p>
@@ -91,8 +81,6 @@ Interests:
 <img src="https://skillicons.dev/icons?i=unreal" height="45"/>
 
 </p>
-
----
 
 ## Tools
 
@@ -188,8 +176,6 @@ Version Control: Git
 
 - Crack FAANG
 - Build Deep Learning Projects
-- Publish Open Source Projects
-- Reach 1000+ GitHub contributions
 
 ---
 
