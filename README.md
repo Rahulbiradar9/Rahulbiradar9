@@ -1,21 +1,200 @@
-# 💫 About Me:
-Intern @rooman technology 
+<h1 align="center">Rahul Biradar</h1>
 
+<p align="center">
+Deep Learning Explorer • Game Developer
+</p>
 
-## 🌐 Socials:
-@Rahul Chandrashekhar Biradar [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Rahulbiradar7134@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Rahulbiradar9&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Rahulbiradar9&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulbiradar9&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Rahulbiradar9&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&pause=1000&center=true&vCenter=true&width=600&lines=C%2B%2B+Programmer;Deep+Learning+Explorer;Game+Developer;" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Rahulbiradar9&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About Me
+
+```yaml
+Name: Rahul Biradar
+Role: Still Learning
+Company: Intern @ IIITS
+Interests:
+  - Deep Learning
+  - System Design
+  - Algorithms
+  - Game Development
+```
+
+---
+
+# Tech Stack
+
+## Programming Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=cpp" height="45"/>
+<img src="https://skillicons.dev/icons?i=c" height="45"/>
+<img src="https://skillicons.dev/icons?i=python" height="45"/>
+<img src="https://skillicons.dev/icons?i=javascript" height="45"/>
+
+</p>
+
+---
+
+## Frontend Development
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react" height="45"/>
+<img src="https://skillicons.dev/icons?i=html" height="45"/>
+<img src="https://skillicons.dev/icons?i=css" height="45"/>
+
+</p>
+
+---
+
+## Backend Development
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs" height="45"/>
+<img src="https://skillicons.dev/icons?i=fastapi" height="45"/>
+
+</p>
+
+---
+
+## Databases
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql" height="45"/>
+
+</p>
+
+---
+
+## AI
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python" height="45"/>
+
+</p>
+
+---
+
+## Game Development
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=unity" height="45"/>
+<img src="https://skillicons.dev/icons?i=unreal" height="45"/>
+
+</p>
+
+---
+
+## Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git" height="45"/>
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+<img src="https://skillicons.dev/icons?i=vscode" height="45"/>
+
+</p>
+
+---
+
+# GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Rahulbiradar9&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahulbiradar9&theme=tokyonight&hide_border=true" height="170"/>
+
+</p>
+
+---
+
+# Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulbiradar9&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahulbiradar9&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# LeetCode Stats
+
+<p align="center">
+
+<a href="https://leetcode.com/u/Rahul09xd/">
+
+<img src="https://leetcard.jacoblin.cool/Rahul09xd?theme=dark&font=baloo&ext=heatmap"/>
+
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://leetcode.com/u/Rahul09xd/">
+View My LeetCode Profile
+</a>
+
+</p>
+
+---
+
+# GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Rahulbiradar9&theme=radical&no-frame=true&margin-w=8"/>
+
+</p>
+
+---
+
+# Development Environment
+
+```
+Operating system: Windows / Linux
+Editor: VS Code
+Languages: C++, Python, JavaScript
+Frameworks: React
+Game Engines: Unreal Engine, Unity
+Database: MySQL
+Version Control: Git
+```
+
+---
+
+# 2026 Goals
+
+- Crack FAANG
+- Build Deep Learning Projects
+- Publish Open Source Projects
+- Reach 1000+ GitHub contributions
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Rahulbiradar9&style=flat-square"/>
+
+</p>
