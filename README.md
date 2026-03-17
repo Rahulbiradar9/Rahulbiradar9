@@ -148,16 +148,6 @@ View My LeetCode Profile
 
 ---
 
-# GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Rahulbiradar9&theme=radical&no-frame=true&margin-w=8"/>
-
-</p>
-
----
-
 # Development Environment
 
 ```
