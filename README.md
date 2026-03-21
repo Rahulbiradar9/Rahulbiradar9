@@ -164,7 +164,6 @@ Version Control: Git
 
 # 2026 Goals
 
-- Crack FAANG
 - Build Deep Learning Projects
 
 ---
