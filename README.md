@@ -51,23 +51,7 @@ Editor: VS Code
     width="48%" 
     style="object-fit: contain;"
   />
-
-  <a href="https://leetcode.com/u/Rahul09xd/">
-    <img 
-      src="https://leetcard.jacoblin.cool/Rahul09xd?theme=dark&font=baloo&ext=heatmap" 
-      height="250" 
-      width="48%" 
-      style="object-fit: contain;"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://leetcode.com/u/Rahul09xd/">
-    View My LeetCode Profile
-  </a>
-</p>
-
+  
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Rahulbiradar9&style=flat-square"/>
 </p>
