@@ -1,6 +1,6 @@
 <h1 align="center">Rahul Biradar</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&pause=1000&center=true&vCenter=true&width=600&lines=C%2B%2B+Programmer;Deep+Learning+Explorer;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&pause=1000&center=true&vCenter=true&width=600&lines=Human;" />
 </p>
 
 
