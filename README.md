@@ -9,16 +9,11 @@
 ```yaml
 Name: Rahul Biradar
 Role: Still Learning
-Company: Intern @ IIITS
 Interests:
-  - Deep Learning
-  - System Design
-  - Algorithms
-  - Game Development
-Operating system: Windows / Linux
+  -coding
+  -math
+Operating system:Linux / Windows
 Editor: VS Code
-2026 Goals:
-  - Build Deep Learning Projects
 ```
 
 ---
@@ -44,13 +39,32 @@ Editor: VS Code
 ---
 
 # Stats
+# 🏆 Competitive Programming
+
 <p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Rahulbiradar9&theme=tokyonight&hide_border=true" 
-    height="250" 
-    width="48%" 
-    style="object-fit: contain;"
-  />
+  <a href="https://github.com/Rahulbiradar9">
+    <img
+      src="https://github-readme-streak-stats.herokuapp.com/?user=Rahulbiradar9&theme=tokyonight&hide_border=true"
+      width="48%"
+    />
+  </a>
+
+  <a href="https://leetcode.com/u/Rahul09xd/">
+    <img
+      src="https://leetcard.jacoblin.cool/Rahul09xd?theme=dark&font=JetBrains+Mono&ext=contest,heatmap&border=0"
+      width="48%"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://codeforces.com/profile/PANDA09xd">
+    <img
+      src="https://codeforces-readme-stats.vercel.app/api/card?username=PANDA09xd&theme=tokyonight"
+      width="60%"
+    />
+  </a>
+</p>
   
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Rahulbiradar9&style=flat-square"/>
