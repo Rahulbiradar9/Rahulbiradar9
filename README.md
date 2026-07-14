@@ -39,7 +39,7 @@ Editor: VS Code
 ---
 
 # Stats
-# 🏆 Competitive Programming
+# Competitive Programming
 
 <p align="center">
   <a href="https://github.com/Rahulbiradar9">
