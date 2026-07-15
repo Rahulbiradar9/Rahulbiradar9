@@ -60,8 +60,8 @@ Editor: VS Code
 <p align="center">
   <a href="https://codeforces.com/profile/PANDA09xd">
     <img
-      src="https://codeforces-readme-stats.vercel.app/api/card?username=PANDA09xd&theme=tokyonight"
-      width="60%"
+      src="https://codeforces-readme-stats.vercel.app/api/card?username=PANDA09xd&theme=tokyonight&disable_animations=true&hide_border=true"
+      width="40%"
     />
   </a>
 </p>
